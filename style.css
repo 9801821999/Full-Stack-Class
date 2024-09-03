@@ -1,0 +1,31 @@
+.my-body1 {
+    color: red;
+    text-align: center;
+    background-color: aqua;
+}
+#para{
+    color: blue;
+    text-align: center;
+}
+#first-button {
+    background-color: yellow;
+    color: blue;
+}
+.my-body2 {
+        color:Blue;
+        text-align: center;
+}
+.table-body {
+    color: goldenrod;
+    text-align: center;
+}
+#my-table {
+    border: 2px solid;
+    border-color: blue;
+}
+table {
+    border: 2px solid;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 50%;
+    margin-left: 250px;
+}

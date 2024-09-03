@@ -1,0 +1,32 @@
+body {
+    background-color: aquamarine;
+}
+table, th, td {
+    /* border: 2px solid gray; */
+    border-collapse: collapse;
+}
+table {
+    height: 80%;
+    width: 90%;
+    
+}
+th {
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #D13F1F;
+    color: wheat;
+}
+td {
+    text-align: center;
+    font-size: 18px;
+    color: #13E1B2;
+    background-color:darkblue;
+    border-bottom: 5px solid lightpink;
+}
+td:hover{
+    color: red;
+}
+tr:hover{
+    background-color: green;
+}
